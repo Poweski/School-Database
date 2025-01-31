@@ -1,1 +1,1 @@
-School Data Base created in Microsoft Office Access.
+School Database created in Microsoft Office Access.
